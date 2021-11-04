@@ -1,2 +1,2 @@
-# lazylaz84.github.io
-LAZYLAZ Github Pages
+#LAZYLAZ Github Pages
+lazylaz84.github.io

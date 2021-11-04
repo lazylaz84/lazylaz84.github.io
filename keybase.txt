@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lazylaz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lazylaz.github.io
+  * I am lazylaz (https://keybase.io/lazylaz) on keybase.
+  * I have a public key ASBpz4Tx_O0zrpLeLlwTkL_y73eoEwDUtCuxoO26x2jACwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012069cf84f1fced33ae92de2e5c1390bff2ef77a81300d4b42bb1a0edbac768c00b0a",
+      "host": "keybase.io",
+      "kid": "012069cf84f1fced33ae92de2e5c1390bff2ef77a81300d4b42bb1a0edbac768c00b0a",
+      "uid": "352882e1caf4061733d0bac8d69fe919",
+      "username": "lazylaz"
+    },
+    "merkle_root": {
+      "ctime": 1636004081,
+      "hash": "a9ec759f25ce074c4ed612f0d4a8bb8cb6fb42304813e6a6710f382373b9ae57c7738555d56a54a173463893fe4f2c238d4c9e9750caaf19930e39b74d81f3f1",
+      "hash_meta": "2fa49b14781110c3cc8f3cbfddf6bdbd30479280015e6a1ad5611ea2eae2074e",
+      "seqno": 21137659
+    },
+    "service": {
+      "entropy": "f/6uIychWv0Iywt8/qSg5g7m",
+      "hostname": "lazylaz.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1636004108,
+  "expire_in": 504576000,
+  "prev": "cbe39325361902e9d4f7c976785efe00b412106db30112dd96d61c8e9055e794",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgac+E8fztM66S3i5cE5C/8u93qBMA1LQrsaDtusdowAsKp3BheWxvYWTESpcCCcQgy+OTJTYZAunU98l2eF7+ALQSEG2zARLdltYcjpBV55TEIHqiZoAF8BWoa2KlUQxUvLwI+ym8seXSg1O2NPDXk2FYAgHCo3NpZ8RAa0ag6RD5hJg2mKSjMlcbPfavkOgYDb/NcRD9LnvAPm7lWenq+wrfz3PJAyrP3Yz1nVgTCTpqa14IO3k1k3KkBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIB/OzatwlRt+ypWL4fAduLUxnf2dXc2Rv0l51jsoLHGxo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lazylaz
+
+==================================================================
